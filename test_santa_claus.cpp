@@ -8,6 +8,7 @@
 
 #include "shortcut.h"
 #include "test_santa_claus.h"
+#include "list.h"
 
 struct Dummy{
 	int val;
